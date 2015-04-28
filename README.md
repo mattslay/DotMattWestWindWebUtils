@@ -10,7 +10,7 @@ This class can be used from a Razor view to generate HTML markup of the West Win
 {
     <div class="row" >
         <div id="errorDisplay" class="col-md-offset-2 col-md-8" style="display: none">
-            @WestWindHtmlHelpers.BootstrapValidationErrors(@Model.ErrorDisplay, "CashCard")
+            @WestWindHtmlHelpers.BootstrapValidationErrors(@Model.ErrorDisplay, "EntityTypeHere")
         </div>
     </div>
 }
