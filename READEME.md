@@ -2,6 +2,7 @@
 This library contains classes to help with the use of the WestWind Toolkit web development components.
 
 **BootstrapValidationErrors class**
+
 This class can be used from a Razor view to generate HTML markup of the West Wind Validation Errors collection in Bootstrap 3 styling.
 
 ```
